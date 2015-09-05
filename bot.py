@@ -46,9 +46,9 @@ while 1:
     elif float(total_month) < (150*0.70):
         msg = "everything is still ok but check your internet limit, below 70%"
     elif float(total_month) < (150*0.80):
-        msg = "everything is still ok but you better see if you need a block, below 80%"
+        msg = "You better see if you need a block, below 80%"
     elif float(total_month) < (150*0.90):
-        msg = "everything is still ok... BUT YOU HAVE TO BUY A BLOCK, below 90%"
+        msg = "YOU HAVE TO BUY A BLOCK, below 90% !!"
     msg += " @goku417"
 
     # Update status on bun's bot
