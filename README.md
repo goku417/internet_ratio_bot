@@ -4,6 +4,7 @@ This is a bot who tweets, daily, if your Internet ratio is fine.
 ## Requierements
 * Python 2.7
 * pip
+* UBUNTU USER ONLY: Make sure you have install `libxml2-dev libxslt-dev`
 
 ## How to use it
 1. Make sure you have `pip` install on your computer if not install it.
